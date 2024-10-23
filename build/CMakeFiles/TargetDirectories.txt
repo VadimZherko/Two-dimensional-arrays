@@ -1,3 +1,0 @@
-/home/vadim/repository/Two-dimensional arrays/build/CMakeFiles/Arrays.dir
-/home/vadim/repository/Two-dimensional arrays/build/CMakeFiles/edit_cache.dir
-/home/vadim/repository/Two-dimensional arrays/build/CMakeFiles/rebuild_cache.dir
